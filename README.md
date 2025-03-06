@@ -1,7 +1,7 @@
 # TecSense-Ohmmeter
 Automatic Ohmmeter - A New Approach
 
-![TecDev-Ohmmeter](https://github.com/Tecfield-SIA/TecDev-Ohmmeter/blob/main/Images/1.jpg)
+![TecSense-Ohmmeter](https://github.com/Tecfield-SIA/TecSense-Ohmmeter/blob/main/Images/1.jpg)
 
 ________________________________________
 
@@ -74,7 +74,7 @@ This project is released under Creative Commons Attribution-NonCommercial 4.0 In
 
 📌 Original Concept & Development: Siavash Alizadeh
 
-📌 GitHub Repository: https://github.com/Tecfield-SIA/TecDev-Ohmmeter/tree/main
+📌 GitHub Repository: https://github.com/Tecfield-SIA/TecSense-Ohmmeter/tree/main
 
 ________________________________________
 
