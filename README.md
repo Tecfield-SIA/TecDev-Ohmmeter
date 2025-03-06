@@ -1,4 +1,4 @@
-# TecDev-Ohmmeter
+# TecSense-Ohmmeter
 Automatic Ohmmeter - A New Approach
 
 ![TecDev-Ohmmeter](https://github.com/Tecfield-SIA/TecDev-Ohmmeter/blob/main/Images/1.jpg)
